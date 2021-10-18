@@ -1,8 +1,6 @@
 ## jeetb98.github.io
 Jeet B. - Website
 
-Tree :
-
 ```
 site_base
 │   README.md
