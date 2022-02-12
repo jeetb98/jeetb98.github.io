@@ -11,6 +11,8 @@ site_base
 │   └───v1.1
 │   │
 │   └───v1.2
+│   │
+│   └───v1.3
 ```
 
 ### WebSite_Base (v1) :
@@ -30,3 +32,6 @@ site_base
 * Enabled deeplink redirects to new tab.
 * Updated Background Image & Removed Extra Information from Footer.
 * Rebalanced Skills, Updated Resume & Made Minor Text Changes.
+
+### v1.3 : Work in Progress [Target Live Date : 13-02-22]
+* N/A
