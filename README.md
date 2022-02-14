@@ -33,5 +33,6 @@ site_base
 * Updated Background Image & Removed Extra Information from Footer.
 * Rebalanced Skills, Updated Resume & Made Minor Text Changes.
 
-### v1.3 : Work in Progress [Target Live Date : 13-02-22]
-* N/A
+### v1.3 :
+* Updated Headline, Summary & Licenses.
+* Rebalanced Skills, Updated Resume & Made Minor Text Changes.
