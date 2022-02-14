@@ -13,6 +13,8 @@ site_base
 │   └───v1.2
 │   │
 │   └───v1.3
+│   │   │
+│   │   └───v1.3.1
 ```
 
 ### WebSite_Base (v1) :
@@ -36,3 +38,7 @@ site_base
 ### v1.3 :
 * Updated Headline, Summary & Licenses.
 * Rebalanced Skills, Updated Resume & Made Minor Text Changes.
+
+### v1.3.1 (Hotfix Release):
+* Fixed Headline Rendering Issue.
+* Fixed Resume Alignment Issue.
