@@ -42,3 +42,8 @@ site_base
 ### v1.3.1 (Hotfix Release):
 * Fixed Headline Rendering Issue.
 * Fixed Resume Alignment Issue.
+
+### v1.4 :
+* Awarded Star Performer.🎉.
+* Contact Page now properly.
+* Implemented reCAPTCHA for the Contact form.
