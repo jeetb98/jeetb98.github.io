@@ -47,5 +47,5 @@ site_base
 
 ### v1.4 :
 * Awarded Star Performer.🎉.
-* Contact Page now properly.
+* Contact Section is now working.
 * Implemented reCAPTCHA for the Contact form.
