@@ -17,6 +17,8 @@ site_base
 │   │   └───v1.3.1
 │   │
 │   └───v1.4
+│   │   │
+│   │   └───v1.4.1
 ```
 
 ### WebSite_Base (v1) :
@@ -49,3 +51,6 @@ site_base
 * Awarded Star Performer.🎉.
 * Contact Section is now working.
 * Implemented reCAPTCHA for the Contact form.
+
+### v1.4.1 (Hotfix Release):
+* Fixed Rendering Issue
