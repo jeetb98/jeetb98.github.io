@@ -19,6 +19,8 @@ site_base
 │   └───v1.4
 │   │   │
 │   │   └───v1.4.1
+│   │
+│   └───v1.5
 ```
 
 ### WebSite_Base (v1) :
@@ -54,3 +56,9 @@ site_base
 
 ### v1.4.1 (Hotfix Release):
 * Fixed Rendering Issue
+
+### v1.5 :
+* Integrated with Google Sites for Indexing.
+* Replaced Mail with LinkedIn.
+* Department Renamed from Security Assurance to Privacy Management.
+* Attained Diploma in Cyber Laws & OneTrust Certified Privacy Professional.
